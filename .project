@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/java/._Pet Store API</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/Promineo%20Tech%20Spring%20Boot%20Extra%20Resources/__MACOSX/Promineo%20Tech%20Spring%20Boot%20Extra%20Resources/Sample%20JSON/._Pet%20Store%20API</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
